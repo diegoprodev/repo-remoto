@@ -1,3 +1,4 @@
-# Repositório Remoto
+# Repositório local
 
-# descrição inserida no respositorio remoto depois  do clone 2
+# descrição inserida no respositorio local depois  do clone
+
